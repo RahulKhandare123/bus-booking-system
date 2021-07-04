@@ -1,0 +1,32 @@
+
+.form{
+    width: 500px;
+    height: 300px;
+    margin: auto;
+    margin-top: 20px;
+    border: 3px solid blue;
+    padding:10px;
+    text-align: center;
+    align-items: center;
+    margin-bottom: 20px;
+    background-color: rgba(255, 255, 255, 0.55);
+    border-radius: 10px;
+    border-style: dotted;
+}
+.l1{
+    font-size: xx-large;
+    color: white;
+    font-style: bold;
+}
+.navbar-brand{
+    font-size: xx-large;
+    color: yellow !important;
+}
+.foo{
+    text-align: center;
+    background-color: orange;
+    height: 25px;
+    margin: 25px;
+    margin-left: 550px;
+    margin-right: 550px;
+}
